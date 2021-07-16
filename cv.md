@@ -12,7 +12,7 @@
   - prog: VS code, Fusion 360, Photoshop, Illustrator, bash-like consoles
 - Soft Skills: 
   - Adaptability
-  - Diagnostic intuiti
+  - Diagnostic intuition
   - Process automatization
 ## Code examples
 Bot for automatization "tasks" sending from billing system in Asana:
