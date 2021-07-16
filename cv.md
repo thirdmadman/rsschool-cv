@@ -62,6 +62,7 @@ Bot for automatization "tasks" sending from billing system in Asana:
 * NetCracker (mano) java developer courses certificate, project School Journal (teamlead, fullstack) [on github](https://github.com/nceduc-mano-tlt-org/2019-school-journal) 2018-2019
 * Embedded software engineer, [COMPANY NAME HIDDEN] 2 projects 09.2020-03.2021
 ## Education
+* htmlacademy.ru tasks from free course of css and html
 * NetCracker java developer courses
 * RS-school JS-FE-2020-Q3 [not complited]
 * TGU master's degree of "Electronics and nanoelectronics"
