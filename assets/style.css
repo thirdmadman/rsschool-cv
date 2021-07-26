@@ -4,7 +4,68 @@
   margin: 0;
   padding: 0;
 }
+
 body {
   font-family: "Roboto", sans-serif;
   height: 100vh;
+  line-height: 180%;
+}
+
+.container {
+  max-width: 1012px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  border: 0 !important;
+  padding: 0 !important;
+  clip: rect(0 0 0 0) !important;
+  overflow: hidden !important;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+header img {
+    border-radius: 100%;
+    margin-right: 50px;
+}
+
+main section {
+    margin-top: 30px;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section h3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-top: 50px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer * {
+
 }
